@@ -1,0 +1,15 @@
+body
+{
+color: chartreuse;
+text-align: center;
+text-shadow: 2px 3px 4px #000;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 30px;
+background-color: #000;
+
+}
+button{
+font-size: 30px;
+color: #000;
+text-shadow: 2px 3px 4px ;
+}
